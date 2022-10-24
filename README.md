@@ -14,7 +14,7 @@
      >tsp_source
      	att48.tsp
 ```
-<\b><\b>
+<b><b>
 
 
 ## 2. 使用方法
@@ -51,7 +51,7 @@ as.report();
 + <tsp adj_matrix> tsp 城市的邻接矩阵
 
 
-<\b><\b>
+<b><b>
 
 
 ## 3. 测试实例
